@@ -69,44 +69,56 @@ body{
         max-width: 660px;
         
     }
-    @media(max-width:500px){
+   @media(max-width:500px){
         .qw{
             max-width: 300px;
+            padding-bottom: 10px;
         }
         .qu{
             max-width: 300px;
+            padding-bottom: 10px;
         }
         .qp{
             max-width: 300px;
+            padding-bottom: 10px;
         }
         .qy{
             max-width: 300px;
+            padding-bottom: 10px;
         }
         .ql{
             max-width: 300px;
+            padding-bottom: 10px;
         } 
         .qm{
             max-width: 300px;
+            padding-bottom: 10px;
         } 
     }
     @media(min-width:750px){
         .qw{
             max-width: 500px;
+            padding-bottom: 20px;
         }
         .qu{
             max-width: 500px;
+            padding-bottom: 20px;
         }
         .qp{
             max-width: 500px;
+            padding-bottom: 20px;
         }
         .qy{
             max-width: 500px;
+            padding-bottom: 20px;
         } 
         .ql{
             max-width: 500px;
+            padding-bottom: 20px;
         } 
         .qm{
             max-width: 500px;
+            padding-bottom: 20px;
         } 
     }
     @media(min-width:1200px){
