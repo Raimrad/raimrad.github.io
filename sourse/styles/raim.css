@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient(90deg, #e1f7fd 0%, #faf6d8 100%);
+    color: rgb(7, 19, 30);
+}
+
+.navbar-nav .nav-link.active{
+    color: rgb(15, 5, 30);
+}
+.nav-link{
+    color: rgb(110, 110, 110);
+}
+.navbar-nav{
+    font-size: 20px;
+}
+.rr{
+    max-width: 50px;
+
+}
+.card{
+    background-color: rgb(255, 255, 255);
+    color: rgb(17, 29, 40);
+}
+.ttt>.row{
+    border-bottom-style: solid;
+}
+.yyyyy{
+    text-align: center;
+
+}
+.rai{
+    margin-top: 20px;
+}
+.aat{
+    max-width:80px;
+    margin-left: 20px;
+    
+}
+.tat{
+    margin-left: 10px;
+    padding-bottom:40px ;
+}
+.aap{
+    margin-bottom: 30px;
+    
+}
+.par{
+    display: block;
+    text-align: center;
+    
+}
+.aar{
+    margin-bottom: 15px;
+}
+.qqq{
+    margin-left: 1100px;
+    color: rgb(9, 10, 28);
+}
+.rap{
+    max-width: 50px;
+}
+.navbar>a{
+    color: aliceblue;
+    text-decoration: none;
+    float: left;
+}
+
