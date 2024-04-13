@@ -6,7 +6,7 @@ body{
 }
 .navbar{
     display: flex;
-    background: linear-gradient(90deg, #c8f3ff 0%, #fff8c4 100%);
+    background-color: #ffffff;
 }
 .nav-list{
     display: flex;
@@ -35,7 +35,7 @@ body{
             font-size: 2em;
             padding-inline: 15px;
             padding-top: 7px;
-            background-color:   #fff8c4;
+            background-color:  #ffffff;
             border: none;
             display: block;
             cursor: pointer;
